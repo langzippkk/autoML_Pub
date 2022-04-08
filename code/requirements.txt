@@ -1,0 +1,24 @@
+openml
+metalearn
+tensorflow==2.0.0-beta1
+numpy==1.16.0
+Cython==0.27.3
+build-essential swig
+auto-sklearn
+setuptools
+nose
+numpy>=1.9.0
+scipy>=0.14.1
+scikit-learn>=0.21.0,<0.22
+lockfile
+joblib
+psutil
+pyyaml
+liac-arff
+pandas
+ConfigSpace>=0.4.0,<0.5
+pynisher>=0.4.2
+pyrfr>=0.7,<0.9
+smac==0.8
+tensorflow-hub
+seaborn
